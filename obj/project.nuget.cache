@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rsen3gZMdyWvybQxbto/8It0YuKZeP5uId7o/K+BSx0+MnkF2M/bVJzIfSgQ6rqSg6LoZwPky4tvvxnD1tk5yg==",
+  "success": true,
+  "projectFilePath": "C:\\workspaces\\Dio-Workspaces\\projeto_APIdotNet_e_MongoDB\\Api\\Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rafael e Nubia\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Rafael e Nubia\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Rafael e Nubia\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Rafael e Nubia\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Rafael e Nubia\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Rafael e Nubia\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
